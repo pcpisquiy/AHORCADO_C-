@@ -1,0 +1,10 @@
+C:\Users\pcpis\source\repos\AHORCADO\AHORCADO\bin\Debug\AHORCADO.exe.config
+C:\Users\pcpis\source\repos\AHORCADO\AHORCADO\bin\Debug\AHORCADO.exe
+C:\Users\pcpis\source\repos\AHORCADO\AHORCADO\bin\Debug\AHORCADO.pdb
+C:\Users\pcpis\source\repos\AHORCADO\AHORCADO\obj\Debug\AHORCADO.csprojAssemblyReference.cache
+C:\Users\pcpis\source\repos\AHORCADO\AHORCADO\obj\Debug\AHORCADO.Form1.resources
+C:\Users\pcpis\source\repos\AHORCADO\AHORCADO\obj\Debug\AHORCADO.Properties.Resources.resources
+C:\Users\pcpis\source\repos\AHORCADO\AHORCADO\obj\Debug\AHORCADO.csproj.GenerateResource.cache
+C:\Users\pcpis\source\repos\AHORCADO\AHORCADO\obj\Debug\AHORCADO.csproj.CoreCompileInputs.cache
+C:\Users\pcpis\source\repos\AHORCADO\AHORCADO\obj\Debug\AHORCADO.exe
+C:\Users\pcpis\source\repos\AHORCADO\AHORCADO\obj\Debug\AHORCADO.pdb
